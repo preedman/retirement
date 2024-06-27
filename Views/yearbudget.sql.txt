@@ -1,0 +1,4 @@
+select public.yearbudget."ID", public.lifestyle.description, public.retirementtype.description, public.yearbudget.yearamount 
+from public.yearbudget    
+inner join public.lifestyle ON public.yearbudget.lifestyle = public.lifestyle."ID"  
+inner join public.retirementtype on public.yearbudget.retirementtype = public.retirementtype."ID" 
