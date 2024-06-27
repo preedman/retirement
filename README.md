@@ -1,4 +1,4 @@
-This is a repository of technical tools related to Australian Retirement. 
-This is currently under development.
-Tools will include a database, software model, and budget planner
+This is a repository of technical tools related to Australian Retirement. <be>
+This is currently under development.<be>
+Tools will include a database, software model, and a budget planner.<be>
 
