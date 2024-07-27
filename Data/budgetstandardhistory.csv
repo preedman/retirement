@@ -1,245 +1,245 @@
-"ID","Item Description","Life Style","Retirement Type","Budget Per Week","Category"
-453,Building and contents insurance,Comfortable,Couple,40.08,Housing
-454,Building and contents insurance,Comfortable,Couple,41.2,Housing
-455,Building and contents insurance,Comfortable,Single,37.8,Housing
-456,Building and contents insurance,Modest,Single,31.48,Housing
-457,Council rates,Comfortable,Couple,42.68,Housing
-458,Council rates,Modest,Couple,38.97,Housing
-459,Council rates,Comfortable,Single,42.68,Housing
-460,Council rates,Modest,Single,36.72,Housing
-461,Water charges,Comfortable,Couple,25.31,Housing
-462,Water charges,Modest,Couple,25.31,Housing
-463,Water charges,Comfortable,Single,21.79,Housing
-464,Water charges,Modest,Single,21.79,Housing
-465,Home improvements,Comfortable,Couple,7.77,Housing
-466,Home improvements,Modest,Couple,0.0,Housing
-467,Home improvements,Comfortable,Single,7.77,Housing
-468,Home improvements,Modest,Single,0.0,Housing
-469,Repairs & maintenance,Comfortable,Couple,23.29,Housing
-470,Repairs & maintenance,Modest,Couple,23.29,Housing
-471,Repairs & maintenance,Comfortable,Single,23.29,Housing
-472,Repairs & maintenance,Modest,Single,23.29,Housing
-473,Electricity & gas bills,Comfortable,Couple,60.48,Electricty and Gas
-474,Electricity & gas bills,Modest,Couple,51.7,Electricty and Gas
-475,Electricity & gas bills,Comfortable,Single,48.77,Electricty and Gas
-476,Electricity & gas bills,Modest,Single,38.49,Electricty and Gas
-477,Food - Groceries,Comfortable,Couple,243.57,Food
-478,Food - Groceries,Modest,Couple,200.94,Food
-479,Food - Groceries,Comfortable,Single,140.14,Food
-480,Food - Groceries,Modest,Single,108.39,Food
-481,"Home Phone,Broadband,Mobile",Comfortable,Couple,29.06,"Home Phone,Broadband,Mobile"
-482,"Home Phone,Broadband,Mobile",Modest,Couple,20.11,"Home Phone,Broadband,Mobile"
-483,"Home Phone,Broadband,Mobile",Comfortable,Single,22.33,"Home Phone,Broadband,Mobile"
-484,"Home Phone,Broadband,Mobile",Modest,Single,17.85,"Home Phone,Broadband,Mobile"
-485,Household cleaning and other supplies,Comfortable,Couple,30.52,Household goods and services
-486,Household cleaning and other supplies,Modest,Couple,18.24,Household goods and services
-487,Household cleaning and other supplies,Comfortable,Single,23.39,Household goods and services
-488,Household cleaning and other supplies,Modest,Single,18.24,Household goods and services
-489,Cosmetic and personal care items,Comfortable,Couple,7.54,Household goods and services
-490,Cosmetic and personal care items,Modest,Couple,7.22,Household goods and services
-491,Cosmetic and personal care items,Comfortable,Single,5.39,Household goods and services
-492,Cosmetic and personal care items,Modest,Single,5.16,Household goods and services
-493,Hair cuts,Comfortable,Couple,26.42,Household goods and services
-494,Hair cuts,Modest,Couple,11.69,Household goods and services
-495,Hair cuts,Comfortable,Single,17.21,Household goods and services
-496,Hair cuts,Modest,Single,7.01,Household goods and services
-497,"Media, including digital",Comfortable,Couple,9.32,Household goods and services
-498,"Media, including digital",Modest,Couple,2.72,Household goods and services
-499,"Media, including digital",Comfortable,Single,9.1,Household goods and services
-500,"Media, including digital",Modest,Single,2.72,Household goods and services
-501,"Computer, Printer, Software",Comfortable,Couple,5.07,Household goods and services
-502,"Computer, Printer, Software",Comfortable,Single,5.07,Household goods and services
-503,"Computer, Printer, Software",Modest,Single,2.85,Household goods and services
-504,"Household appliances, Air Conditioning",Comfortable,Couple,18.35,Household goods and services
-505,"Household appliances, Air Conditioning",Modest,Couple,3.01,Household goods and services
-506,"Household appliances, Air Conditioning",Comfortable,Single,16.94,Household goods and services
-507,"Household appliances, Air Conditioning",Modest,Single,3.01,Household goods and services
-508,Misc,Comfortable,Couple,7.87,Household goods and services
-509,Misc,Comfortable,Single,7.87,Household goods and services
-510,Misc,Modest,Single,0.0,Household goods and services
-511,Car transport and running costs,Comfortable,Couple,182.85,Transport
-512,Car transport and running costs,Modest,Couple,107.9,Transport
-513,Car transport and running costs,Comfortable,Single,171.11,Transport
-514,Car transport and running costs,Modest,Single,103.67,Transport
-515,Public Transport,Comfortable,Couple,5.33,Transport
-516,Public Transport,Modest,Couple,5.33,Transport
-517,Public Transport,Comfortable,Single,2.67,Transport
-518,Public Transport,Modest,Single,2.67,Transport
-519,Health Insurance,Comfortable,Couple,93.52,Health services
-520,Health Insurance,Modest,Couple,35.74,Health services
-521,Health Insurance,Comfortable,Single,46.75,Health services
-522,Health Insurance,Modest,Single,17.87,Health services
-523,Chemist,Comfortable,Couple,48.46,Health services
-524,Chemist,Modest,Couple,24.23,Health services
-525,Chemist,Comfortable,Single,27.9,Health services
-526,Chemist,Modest,Single,13.94,Health services
-527,Co-payment and out of packet health costs,Comfortable,Couple,63.79,Health services
-528,Co-payment and out of packet health costs,Modest,Couple,47.18,Health services
-529,Co-payment and out of packet health costs,Comfortable,Single,35.39,Health services
-530,Co-payment and out of packet health costs,Modest,Single,23.6,Health services
-531,Over the counter medicines,Comfortable,Couple,6.02,Health services
-532,Over the counter medicines,Modest,Couple,0.0,Health services
-533,Over the counter medicines,Comfortable,Single,3.01,Health services
-534,Over the counter medicines,Modest,Single,0.0,Health services
-535,Club Memberships,Comfortable,Couple,6.55,Leisure
-536,Club Memberships,Modest,Couple,4.36,Leisure
-537,Club Memberships,Comfortable,Single,4.39,Leisure
-538,Club Memberships,Modest,Single,3.27,Leisure
-539,Streaming services ( netflix etc),Comfortable,Couple,11.98,Leisure
-540,Streaming services ( netflix etc),Modest,Couple,3.21,Leisure
-541,Streaming services ( netflix etc),Comfortable,Single,11.98,Leisure
-542,Streaming services ( netflix etc),Modest,Single,3.21,Leisure
-543,Alcohol,Comfortable,Couple,45.06,Leisure
-544,Alcohol,Modest,Couple,25.47,Leisure
-545,Alcohol,Comfortable,Single,21.58,Leisure
-546,Alcohol,Modest,Single,16.9,Leisure
-547,"Lunches, Dinner out",Comfortable,Couple,94.12,Leisure
-548,"Lunches, Dinner out",Modest,Couple,49.31,Leisure
-549,"Lunches, Dinner out",Comfortable,Single,67.23,Leisure
-550,"Lunches, Dinner out",Modest,Single,29.13,Leisure
-551,"Movies, Plays, Sports, Day Trips",Comfortable,Couple,10.91,Leisure
-552,"Movies, Plays, Sports, Day Trips",Modest,Couple,13.09,Leisure
-553,"Movies, Plays, Sports, Day Trips",Comfortable,Single,6.55,Leisure
-554,"Movies, Plays, Sports, Day Trips",Modest,Single,6.55,Leisure
-555,Domestic Vacations,Comfortable,Couple,88.04,Leisure
-556,Domestic Vacations,Modest,Couple,61.52,Leisure
-557,Domestic Vacations,Comfortable,Single,57.84,Leisure
-558,Domestic Vacations,Modest,Single,38.99,Leisure
-559,Overseas Vacations,Comfortable,Couple,37.51,Leisure
-560,Overseas Vacations,Modest,Couple,0.0,Leisure
-561,Overseas Vacations,Comfortable,Single,23.67,Leisure
-562,Overseas Vacations,Modest,Single,0.0,Leisure
-563,Takeaway Food,Comfortable,Couple,31.59,Leisure
-564,Takeaway Food,Modest,Couple,16.48,Leisure
-565,Takeaway Food,Comfortable,Single,23.0,Leisure
-566,Takeaway Food,Modest,Single,12.26,Leisure
-567,Clothing and Footware,Comfortable,Couple,52.15,Clothing and footwear
-568,Clothing and Footware,Modest,Couple,39.84,Clothing and footwear
-569,Clothing and Footware,Comfortable,Single,28.0,Clothing and footwear
-570,Clothing and Footware,Modest,Single,20.96,Clothing and footwear
-571,"TV,DVD",Comfortable,Couple,1.21,Leisure
-572,"TV,DVD",Modest,Couple,0.46,Leisure
-573,"TV,DVD",Comfortable,Single,1.21,Leisure
-574,"TV,DVD",Modest,Single,0.46,Leisure
-575,Building and contents insurance,Comfortable,Couple,41.2,Housing
-576,Building and contents insurance,Modest,Couple,41.12,Housing
-577,Building and contents insurance,Comfortable,Single,38.5,Housing
-578,Building and contents insurance,Modest,Single,32.35,Housing
-579,Council rates,Comfortable,Couple,44.53,Housing
-580,Council rates,Modest,Couple,40.67,Housing
-581,Council rates,Comfortable,Single,44.53,Housing
-582,Council rates,Modest,Single,38.32,Housing
-583,Water charges,Comfortable,Couple,26.5,Housing
-584,Water charges,Modest,Couple,26.5,Housing
-585,Water charges,Comfortable,Single,22.81,Housing
-586,Water charges,Modest,Single,22.81,Housing
-587,Home improvements,Comfortable,Couple,7.84,Housing
-588,Home improvements,Modest,Couple,0.0,Housing
-589,Home improvements,Comfortable,Single,7.84,Housing
-590,Home improvements,Modest,Single,0.0,Housing
-591,Repairs & maintenance,Comfortable,Couple,23.51,Housing
-592,Repairs & maintenance,Modest,Couple,23.51,Housing
-593,Repairs & maintenance,Comfortable,Single,23.51,Housing
-594,Repairs & maintenance,Modest,Single,23.51,Housing
-595,Electricity & gas bills,Comfortable,Couple,63.04,Electricty and Gas
-596,Electricity & gas bills,Modest,Couple,53.89,Electricty and Gas
-597,Electricity & gas bills,Comfortable,Single,50.83,Electricty and Gas
-598,Electricity & gas bills,Modest,Single,40.12,Electricty and Gas
-599,Food - Groceries,Comfortable,Couple,245.07,Food
-600,Food - Groceries,Modest,Couple,202.18,Food
-601,Food - Groceries,Comfortable,Single,141.0,Food
-602,Food - Groceries,Modest,Single,109.06,Food
-603,"Home Phone,Broadband,Mobile",Comfortable,Couple,29.66,"Home Phone,Broadband,Mobile"
-604,"Home Phone,Broadband,Mobile",Modest,Couple,20.53,"Home Phone,Broadband,Mobile"
-605,"Home Phone,Broadband,Mobile",Comfortable,Single,22.79,"Home Phone,Broadband,Mobile"
-606,"Home Phone,Broadband,Mobile",Modest,Single,18.12,"Home Phone,Broadband,Mobile"
-607,Household cleaning and other supplies,Comfortable,Couple,30.79,Household goods and services
-608,Household cleaning and other supplies,Modest,Couple,18.4,Household goods and services
-609,Household cleaning and other supplies,Comfortable,Single,23.6,Household goods and services
-610,Household cleaning and other supplies,Modest,Single,18.4,Household goods and services
-611,Cosmetic and personal care items,Comfortable,Couple,7.57,Household goods and services
-612,Cosmetic and personal care items,Modest,Couple,7.25,Household goods and services
-613,Cosmetic and personal care items,Comfortable,Single,5.41,Household goods and services
-614,Cosmetic and personal care items,Modest,Single,5.18,Household goods and services
-615,Hair cuts,Comfortable,Couple,26.65,Household goods and services
-616,Hair cuts,Modest,Couple,11.79,Household goods and services
-617,Hair cuts,Comfortable,Single,17.36,Household goods and services
-618,Hair cuts,Modest,Single,7.01,Household goods and services
-619,"Media, including digital",Comfortable,Couple,9.36,Household goods and services
-620,"Media, including digital",Modest,Couple,2.74,Household goods and services
-621,"Media, including digital",Comfortable,Single,9.14,Household goods and services
-622,"Media, including digital",Modest,Single,2.74,Household goods and services
-623,"Computer, Printer, Software",Comfortable,Couple,5.04,Household goods and services
-624,"Computer, Printer, Software",Comfortable,Single,5.04,Household goods and services
-625,"Computer, Printer, Software",Modest,Single,2.84,Household goods and services
-626,"Household appliances, Air Conditioning",Comfortable,Couple,18.35,Household goods and services
-627,"Household appliances, Air Conditioning",Modest,Couple,3.01,Household goods and services
-628,"Household appliances, Air Conditioning",Comfortable,Single,16.94,Household goods and services
-629,"Household appliances, Air Conditioning",Modest,Single,3.01,Household goods and services
-630,Misc,Comfortable,Couple,7.87,Household goods and services
-631,Misc,Comfortable,Single,7.87,Household goods and services
-632,Misc,Modest,Single,0.0,Household goods and services
-633,Car transport and running costs,Comfortable,Couple,188.77,Transport
-634,Car transport and running costs,Modest,Couple,111.39,Transport
-635,Car transport and running costs,Comfortable,Single,176.64,Transport
-636,Car transport and running costs,Modest,Single,107.02,Transport
-637,Public Transport,Comfortable,Couple,5.49,Transport
-638,Public Transport,Modest,Couple,5.49,Transport
-639,Public Transport,Comfortable,Single,2.79,Transport
-640,Public Transport,Modest,Single,2.79,Transport
-641,Health Insurance,Comfortable,Couple,93.52,Health services
-642,Health Insurance,Modest,Couple,35.74,Health services
-643,Health Insurance,Comfortable,Single,46.75,Health services
-644,Health Insurance,Modest,Single,17.87,Health services
-645,Chemist,Comfortable,Couple,47.86,Health services
-646,Chemist,Modest,Couple,23.93,Health services
-647,Chemist,Comfortable,Single,27.55,Health services
-648,Chemist,Modest,Single,13.77,Health services
-649,Co-payment and out of packet health costs,Comfortable,Couple,64.57,Health services
-650,Co-payment and out of packet health costs,Modest,Couple,47.75,Health services
-651,Co-payment and out of packet health costs,Comfortable,Single,35.82,Health services
-652,Co-payment and out of packet health costs,Modest,Single,23.88,Health services
-653,Over the counter medicines,Comfortable,Couple,5.95,Health services
-654,Over the counter medicines,Modest,Couple,0.0,Health services
-655,Over the counter medicines,Comfortable,Single,2.97,Health services
-656,Over the counter medicines,Modest,Single,0.0,Health services
-657,Club Memberships,Comfortable,Couple,6.65,Leisure
-658,Club Memberships,Modest,Couple,4.43,Leisure
-659,Club Memberships,Comfortable,Single,4.46,Leisure
-660,Club Memberships,Modest,Single,3.32,Leisure
-661,Streaming services ( netflix etc),Comfortable,Couple,12.03,Leisure
-662,Streaming services ( netflix etc),Modest,Couple,3.23,Leisure
-663,Streaming services ( netflix etc),Comfortable,Single,12.03,Leisure
-664,Streaming services ( netflix etc),Modest,Single,3.23,Leisure
-665,Alcohol,Comfortable,Couple,45.67,Leisure
-666,Alcohol,Modest,Couple,25.81,Leisure
-667,Alcohol,Comfortable,Single,21.88,Leisure
-668,Alcohol,Modest,Single,17.13,Leisure
-669,"Lunches, Dinner out",Comfortable,Couple,96.06,Leisure
-670,"Lunches, Dinner out",Modest,Couple,50.32,Leisure
-671,"Lunches, Dinner out",Comfortable,Single,68.61,Leisure
-672,"Lunches, Dinner out",Modest,Single,29.73,Leisure
-673,"Movies, Plays, Sports, Day Trips",Comfortable,Couple,11.09,Leisure
-674,"Movies, Plays, Sports, Day Trips",Modest,Couple,13.3,Leisure
-675,"Movies, Plays, Sports, Day Trips",Comfortable,Single,6.65,Leisure
-676,"Movies, Plays, Sports, Day Trips",Modest,Single,6.65,Leisure
-677,Domestic Vacations,Comfortable,Couple,85.86,Leisure
-678,Domestic Vacations,Modest,Couple,60.0,Leisure
-679,Domestic Vacations,Comfortable,Single,56.41,Leisure
-680,Domestic Vacations,Modest,Single,38.03,Leisure
-681,Overseas Vacations,Comfortable,Couple,37.68,Leisure
-682,Overseas Vacations,Modest,Couple,0.0,Leisure
-683,Overseas Vacations,Comfortable,Single,23.78,Leisure
-684,Overseas Vacations,Modest,Single,0.0,Leisure
-685,Takeaway Food,Comfortable,Couple,32.28,Leisure
-686,Takeaway Food,Modest,Couple,16.84,Leisure
-687,Takeaway Food,Comfortable,Single,23.51,Leisure
-688,Takeaway Food,Modest,Single,12.52,Leisure
-689,Clothing and Footware,Comfortable,Couple,52.37,Clothing and footwear
-690,Clothing and Footware,Modest,Couple,40.01,Clothing and footwear
-691,Clothing and Footware,Comfortable,Single,28.12,Clothing and footwear
-692,Clothing and Footware,Modest,Single,21.05,Clothing and footwear
-693,"TV,DVD",Comfortable,Couple,1.21,Leisure
-694,"TV,DVD",Modest,Couple,0.46,Leisure
-695,"TV,DVD",Comfortable,Single,1.21,Leisure
-696,"TV,DVD",Modest,Single,0.46,Leisure
+"ID","Item Description","Life Style","Retirement Type","Budget Per Week","Category","Start Date","End Date"
+453,Building and contents insurance,Comfortable,Couple,40.08,Housing,2023-03-01,2023-06-30
+454,Building and contents insurance,Comfortable,Couple,41.2,Housing,2023-03-01,2023-06-30
+455,Building and contents insurance,Comfortable,Single,37.8,Housing,2023-03-01,2023-06-30
+456,Building and contents insurance,Modest,Single,31.48,Housing,2023-03-01,2023-06-30
+457,Council rates,Comfortable,Couple,42.68,Housing,2023-03-01,2023-06-30
+458,Council rates,Modest,Couple,38.97,Housing,2023-03-01,2023-06-30
+459,Council rates,Comfortable,Single,42.68,Housing,2023-03-01,2023-06-30
+460,Council rates,Modest,Single,36.72,Housing,2023-03-01,2023-06-30
+461,Water charges,Comfortable,Couple,25.31,Housing,2023-03-01,2023-06-30
+462,Water charges,Modest,Couple,25.31,Housing,2023-03-01,2023-06-30
+463,Water charges,Comfortable,Single,21.79,Housing,2023-03-01,2023-06-30
+464,Water charges,Modest,Single,21.79,Housing,2023-03-01,2023-06-30
+465,Home improvements,Comfortable,Couple,7.77,Housing,2023-03-01,2023-06-30
+466,Home improvements,Modest,Couple,0.0,Housing,2023-03-01,2023-06-30
+467,Home improvements,Comfortable,Single,7.77,Housing,2023-03-01,2023-06-30
+468,Home improvements,Modest,Single,0.0,Housing,2023-03-01,2023-06-30
+469,Repairs & maintenance,Comfortable,Couple,23.29,Housing,2023-03-01,2023-06-30
+470,Repairs & maintenance,Modest,Couple,23.29,Housing,2023-03-01,2023-06-30
+471,Repairs & maintenance,Comfortable,Single,23.29,Housing,2023-03-01,2023-06-30
+472,Repairs & maintenance,Modest,Single,23.29,Housing,2023-03-01,2023-06-30
+473,Electricity & gas bills,Comfortable,Couple,60.48,Electricty and Gas,2023-03-01,2023-06-30
+474,Electricity & gas bills,Modest,Couple,51.7,Electricty and Gas,2023-03-01,2023-06-30
+475,Electricity & gas bills,Comfortable,Single,48.77,Electricty and Gas,2023-03-01,2023-06-30
+476,Electricity & gas bills,Modest,Single,38.49,Electricty and Gas,2023-03-01,2023-06-30
+477,Food - Groceries,Comfortable,Couple,243.57,Food,2023-03-01,2023-06-30
+478,Food - Groceries,Modest,Couple,200.94,Food,2023-03-01,2023-06-30
+479,Food - Groceries,Comfortable,Single,140.14,Food,2023-03-01,2023-06-30
+480,Food - Groceries,Modest,Single,108.39,Food,2023-03-01,2023-06-30
+481,"Home Phone,Broadband,Mobile",Comfortable,Couple,29.06,"Home Phone,Broadband,Mobile",2023-03-01,2023-06-30
+482,"Home Phone,Broadband,Mobile",Modest,Couple,20.11,"Home Phone,Broadband,Mobile",2023-03-01,2023-06-30
+483,"Home Phone,Broadband,Mobile",Comfortable,Single,22.33,"Home Phone,Broadband,Mobile",2023-03-01,2023-06-30
+484,"Home Phone,Broadband,Mobile",Modest,Single,17.85,"Home Phone,Broadband,Mobile",2023-03-01,2023-06-30
+485,Household cleaning and other supplies,Comfortable,Couple,30.52,Household goods and services,2023-03-01,2023-06-30
+486,Household cleaning and other supplies,Modest,Couple,18.24,Household goods and services,2023-03-01,2023-06-30
+487,Household cleaning and other supplies,Comfortable,Single,23.39,Household goods and services,2023-03-01,2023-06-30
+488,Household cleaning and other supplies,Modest,Single,18.24,Household goods and services,2023-03-01,2023-06-30
+489,Cosmetic and personal care items,Comfortable,Couple,7.54,Household goods and services,2023-03-01,2023-06-30
+490,Cosmetic and personal care items,Modest,Couple,7.22,Household goods and services,2023-03-01,2023-06-30
+491,Cosmetic and personal care items,Comfortable,Single,5.39,Household goods and services,2023-03-01,2023-06-30
+492,Cosmetic and personal care items,Modest,Single,5.16,Household goods and services,2023-03-01,2023-06-30
+493,Hair cuts,Comfortable,Couple,26.42,Household goods and services,2023-03-01,2023-06-30
+494,Hair cuts,Modest,Couple,11.69,Household goods and services,2023-03-01,2023-06-30
+495,Hair cuts,Comfortable,Single,17.21,Household goods and services,2023-03-01,2023-06-30
+496,Hair cuts,Modest,Single,7.01,Household goods and services,2023-03-01,2023-06-30
+497,"Media, including digital",Comfortable,Couple,9.32,Household goods and services,2023-03-01,2023-06-30
+498,"Media, including digital",Modest,Couple,2.72,Household goods and services,2023-03-01,2023-06-30
+499,"Media, including digital",Comfortable,Single,9.1,Household goods and services,2023-03-01,2023-06-30
+500,"Media, including digital",Modest,Single,2.72,Household goods and services,2023-03-01,2023-06-30
+501,"Computer, Printer, Software",Comfortable,Couple,5.07,Household goods and services,2023-03-01,2023-06-30
+502,"Computer, Printer, Software",Comfortable,Single,5.07,Household goods and services,2023-03-01,2023-06-30
+503,"Computer, Printer, Software",Modest,Single,2.85,Household goods and services,2023-03-01,2023-06-30
+504,"Household appliances, Air Conditioning",Comfortable,Couple,18.35,Household goods and services,2023-03-01,2023-06-30
+505,"Household appliances, Air Conditioning",Modest,Couple,3.01,Household goods and services,2023-03-01,2023-06-30
+506,"Household appliances, Air Conditioning",Comfortable,Single,16.94,Household goods and services,2023-03-01,2023-06-30
+507,"Household appliances, Air Conditioning",Modest,Single,3.01,Household goods and services,2023-03-01,2023-06-30
+508,Misc,Comfortable,Couple,7.87,Household goods and services,2023-03-01,2023-06-30
+509,Misc,Comfortable,Single,7.87,Household goods and services,2023-03-01,2023-06-30
+510,Misc,Modest,Single,0.0,Household goods and services,2023-03-01,2023-06-30
+511,Car transport and running costs,Comfortable,Couple,182.85,Transport,2023-03-01,2023-06-30
+512,Car transport and running costs,Modest,Couple,107.9,Transport,2023-03-01,2023-06-30
+513,Car transport and running costs,Comfortable,Single,171.11,Transport,2023-03-01,2023-06-30
+514,Car transport and running costs,Modest,Single,103.67,Transport,2023-03-01,2023-06-30
+515,Public Transport,Comfortable,Couple,5.33,Transport,2023-03-01,2023-06-30
+516,Public Transport,Modest,Couple,5.33,Transport,2023-03-01,2023-06-30
+517,Public Transport,Comfortable,Single,2.67,Transport,2023-03-01,2023-06-30
+518,Public Transport,Modest,Single,2.67,Transport,2023-03-01,2023-06-30
+519,Health Insurance,Comfortable,Couple,93.52,Health services,2023-03-01,2023-06-30
+520,Health Insurance,Modest,Couple,35.74,Health services,2023-03-01,2023-06-30
+521,Health Insurance,Comfortable,Single,46.75,Health services,2023-03-01,2023-06-30
+522,Health Insurance,Modest,Single,17.87,Health services,2023-03-01,2023-06-30
+523,Chemist,Comfortable,Couple,48.46,Health services,2023-03-01,2023-06-30
+524,Chemist,Modest,Couple,24.23,Health services,2023-03-01,2023-06-30
+525,Chemist,Comfortable,Single,27.9,Health services,2023-03-01,2023-06-30
+526,Chemist,Modest,Single,13.94,Health services,2023-03-01,2023-06-30
+527,Co-payment and out of packet health costs,Comfortable,Couple,63.79,Health services,2023-03-01,2023-06-30
+528,Co-payment and out of packet health costs,Modest,Couple,47.18,Health services,2023-03-01,2023-06-30
+529,Co-payment and out of packet health costs,Comfortable,Single,35.39,Health services,2023-03-01,2023-06-30
+530,Co-payment and out of packet health costs,Modest,Single,23.6,Health services,2023-03-01,2023-06-30
+531,Over the counter medicines,Comfortable,Couple,6.02,Health services,2023-03-01,2023-06-30
+532,Over the counter medicines,Modest,Couple,0.0,Health services,2023-03-01,2023-06-30
+533,Over the counter medicines,Comfortable,Single,3.01,Health services,2023-03-01,2023-06-30
+534,Over the counter medicines,Modest,Single,0.0,Health services,2023-03-01,2023-06-30
+535,Club Memberships,Comfortable,Couple,6.55,Leisure,2023-03-01,2023-06-30
+536,Club Memberships,Modest,Couple,4.36,Leisure,2023-03-01,2023-06-30
+537,Club Memberships,Comfortable,Single,4.39,Leisure,2023-03-01,2023-06-30
+538,Club Memberships,Modest,Single,3.27,Leisure,2023-03-01,2023-06-30
+539,Streaming services ( netflix etc),Comfortable,Couple,11.98,Leisure,2023-03-01,2023-06-30
+540,Streaming services ( netflix etc),Modest,Couple,3.21,Leisure,2023-03-01,2023-06-30
+541,Streaming services ( netflix etc),Comfortable,Single,11.98,Leisure,2023-03-01,2023-06-30
+542,Streaming services ( netflix etc),Modest,Single,3.21,Leisure,2023-03-01,2023-06-30
+543,Alcohol,Comfortable,Couple,45.06,Leisure,2023-03-01,2023-06-30
+544,Alcohol,Modest,Couple,25.47,Leisure,2023-03-01,2023-06-30
+545,Alcohol,Comfortable,Single,21.58,Leisure,2023-03-01,2023-06-30
+546,Alcohol,Modest,Single,16.9,Leisure,2023-03-01,2023-06-30
+547,"Lunches, Dinner out",Comfortable,Couple,94.12,Leisure,2023-03-01,2023-06-30
+548,"Lunches, Dinner out",Modest,Couple,49.31,Leisure,2023-03-01,2023-06-30
+549,"Lunches, Dinner out",Comfortable,Single,67.23,Leisure,2023-03-01,2023-06-30
+550,"Lunches, Dinner out",Modest,Single,29.13,Leisure,2023-03-01,2023-06-30
+551,"Movies, Plays, Sports, Day Trips",Comfortable,Couple,10.91,Leisure,2023-03-01,2023-06-30
+552,"Movies, Plays, Sports, Day Trips",Modest,Couple,13.09,Leisure,2023-03-01,2023-06-30
+553,"Movies, Plays, Sports, Day Trips",Comfortable,Single,6.55,Leisure,2023-03-01,2023-06-30
+554,"Movies, Plays, Sports, Day Trips",Modest,Single,6.55,Leisure,2023-03-01,2023-06-30
+555,Domestic Vacations,Comfortable,Couple,88.04,Leisure,2023-03-01,2023-06-30
+556,Domestic Vacations,Modest,Couple,61.52,Leisure,2023-03-01,2023-06-30
+557,Domestic Vacations,Comfortable,Single,57.84,Leisure,2023-03-01,2023-06-30
+558,Domestic Vacations,Modest,Single,38.99,Leisure,2023-03-01,2023-06-30
+559,Overseas Vacations,Comfortable,Couple,37.51,Leisure,2023-03-01,2023-06-30
+560,Overseas Vacations,Modest,Couple,0.0,Leisure,2023-03-01,2023-06-30
+561,Overseas Vacations,Comfortable,Single,23.67,Leisure,2023-03-01,2023-06-30
+562,Overseas Vacations,Modest,Single,0.0,Leisure,2023-03-01,2023-06-30
+563,Takeaway Food,Comfortable,Couple,31.59,Leisure,2023-03-01,2023-06-30
+564,Takeaway Food,Modest,Couple,16.48,Leisure,2023-03-01,2023-06-30
+565,Takeaway Food,Comfortable,Single,23.0,Leisure,2023-03-01,2023-06-30
+566,Takeaway Food,Modest,Single,12.26,Leisure,2023-03-01,2023-06-30
+567,Clothing and Footware,Comfortable,Couple,52.15,Clothing and footwear,2023-03-01,2023-06-30
+568,Clothing and Footware,Modest,Couple,39.84,Clothing and footwear,2023-03-01,2023-06-30
+569,Clothing and Footware,Comfortable,Single,28.0,Clothing and footwear,2023-03-01,2023-06-30
+570,Clothing and Footware,Modest,Single,20.96,Clothing and footwear,2023-03-01,2023-06-30
+571,"TV,DVD",Comfortable,Couple,1.21,Leisure,2023-03-01,2023-06-30
+572,"TV,DVD",Modest,Couple,0.46,Leisure,2023-03-01,2023-06-30
+573,"TV,DVD",Comfortable,Single,1.21,Leisure,2023-03-01,2023-06-30
+574,"TV,DVD",Modest,Single,0.46,Leisure,2023-03-01,2023-06-30
+575,Building and contents insurance,Comfortable,Couple,41.2,Housing,2023-07-01,2023-08-31
+576,Building and contents insurance,Modest,Couple,41.12,Housing,2023-07-01,2023-08-31
+577,Building and contents insurance,Comfortable,Single,38.5,Housing,2023-07-01,2023-08-31
+578,Building and contents insurance,Modest,Single,32.35,Housing,2023-07-01,2023-08-31
+579,Council rates,Comfortable,Couple,44.53,Housing,2023-07-01,2023-08-31
+580,Council rates,Modest,Couple,40.67,Housing,2023-07-01,2023-08-31
+581,Council rates,Comfortable,Single,44.53,Housing,2023-07-01,2023-08-31
+582,Council rates,Modest,Single,38.32,Housing,2023-07-01,2023-08-31
+583,Water charges,Comfortable,Couple,26.5,Housing,2023-07-01,2023-08-31
+584,Water charges,Modest,Couple,26.5,Housing,2023-07-01,2023-08-31
+585,Water charges,Comfortable,Single,22.81,Housing,2023-07-01,2023-08-31
+586,Water charges,Modest,Single,22.81,Housing,2023-07-01,2023-08-31
+587,Home improvements,Comfortable,Couple,7.84,Housing,2023-07-01,2023-08-31
+588,Home improvements,Modest,Couple,0.0,Housing,2023-07-01,2023-08-31
+589,Home improvements,Comfortable,Single,7.84,Housing,2023-07-01,2023-08-31
+590,Home improvements,Modest,Single,0.0,Housing,2023-07-01,2023-08-31
+591,Repairs & maintenance,Comfortable,Couple,23.51,Housing,2023-07-01,2023-08-31
+592,Repairs & maintenance,Modest,Couple,23.51,Housing,2023-07-01,2023-08-31
+593,Repairs & maintenance,Comfortable,Single,23.51,Housing,2023-07-01,2023-08-31
+594,Repairs & maintenance,Modest,Single,23.51,Housing,2023-07-01,2023-08-31
+595,Electricity & gas bills,Comfortable,Couple,63.04,Electricty and Gas,2023-07-01,2023-08-31
+596,Electricity & gas bills,Modest,Couple,53.89,Electricty and Gas,2023-07-01,2023-08-31
+597,Electricity & gas bills,Comfortable,Single,50.83,Electricty and Gas,2023-07-01,2023-08-31
+598,Electricity & gas bills,Modest,Single,40.12,Electricty and Gas,2023-07-01,2023-08-31
+599,Food - Groceries,Comfortable,Couple,245.07,Food,2023-07-01,2023-08-31
+600,Food - Groceries,Modest,Couple,202.18,Food,2023-07-01,2023-08-31
+601,Food - Groceries,Comfortable,Single,141.0,Food,2023-07-01,2023-08-31
+602,Food - Groceries,Modest,Single,109.06,Food,2023-07-01,2023-08-31
+603,"Home Phone,Broadband,Mobile",Comfortable,Couple,29.66,"Home Phone,Broadband,Mobile",2023-07-01,2023-08-31
+604,"Home Phone,Broadband,Mobile",Modest,Couple,20.53,"Home Phone,Broadband,Mobile",2023-07-01,2023-08-31
+605,"Home Phone,Broadband,Mobile",Comfortable,Single,22.79,"Home Phone,Broadband,Mobile",2023-07-01,2023-08-31
+606,"Home Phone,Broadband,Mobile",Modest,Single,18.12,"Home Phone,Broadband,Mobile",2023-07-01,2023-08-31
+607,Household cleaning and other supplies,Comfortable,Couple,30.79,Household goods and services,2023-07-01,2023-08-31
+608,Household cleaning and other supplies,Modest,Couple,18.4,Household goods and services,2023-07-01,2023-08-31
+609,Household cleaning and other supplies,Comfortable,Single,23.6,Household goods and services,2023-07-01,2023-08-31
+610,Household cleaning and other supplies,Modest,Single,18.4,Household goods and services,2023-07-01,2023-08-31
+611,Cosmetic and personal care items,Comfortable,Couple,7.57,Household goods and services,2023-07-01,2023-08-31
+612,Cosmetic and personal care items,Modest,Couple,7.25,Household goods and services,2023-07-01,2023-08-31
+613,Cosmetic and personal care items,Comfortable,Single,5.41,Household goods and services,2023-07-01,2023-08-31
+614,Cosmetic and personal care items,Modest,Single,5.18,Household goods and services,2023-07-01,2023-08-31
+615,Hair cuts,Comfortable,Couple,26.65,Household goods and services,2023-07-01,2023-08-31
+616,Hair cuts,Modest,Couple,11.79,Household goods and services,2023-07-01,2023-08-31
+617,Hair cuts,Comfortable,Single,17.36,Household goods and services,2023-07-01,2023-08-31
+618,Hair cuts,Modest,Single,7.01,Household goods and services,2023-07-01,2023-08-31
+619,"Media, including digital",Comfortable,Couple,9.36,Household goods and services,2023-07-01,2023-08-31
+620,"Media, including digital",Modest,Couple,2.74,Household goods and services,2023-07-01,2023-08-31
+621,"Media, including digital",Comfortable,Single,9.14,Household goods and services,2023-07-01,2023-08-31
+622,"Media, including digital",Modest,Single,2.74,Household goods and services,2023-07-01,2023-08-31
+623,"Computer, Printer, Software",Comfortable,Couple,5.04,Household goods and services,2023-07-01,2023-08-31
+624,"Computer, Printer, Software",Comfortable,Single,5.04,Household goods and services,2023-07-01,2023-08-31
+625,"Computer, Printer, Software",Modest,Single,2.84,Household goods and services,2023-07-01,2023-08-31
+626,"Household appliances, Air Conditioning",Comfortable,Couple,18.35,Household goods and services,2023-07-01,2023-08-31
+627,"Household appliances, Air Conditioning",Modest,Couple,3.01,Household goods and services,2023-07-01,2023-08-31
+628,"Household appliances, Air Conditioning",Comfortable,Single,16.94,Household goods and services,2023-07-01,2023-08-31
+629,"Household appliances, Air Conditioning",Modest,Single,3.01,Household goods and services,2023-07-01,2023-08-31
+630,Misc,Comfortable,Couple,7.87,Household goods and services,2023-07-01,2023-08-31
+631,Misc,Comfortable,Single,7.87,Household goods and services,2023-07-01,2023-08-31
+632,Misc,Modest,Single,0.0,Household goods and services,2023-07-01,2023-08-31
+633,Car transport and running costs,Comfortable,Couple,188.77,Transport,2023-07-01,2023-08-31
+634,Car transport and running costs,Modest,Couple,111.39,Transport,2023-07-01,2023-08-31
+635,Car transport and running costs,Comfortable,Single,176.64,Transport,2023-07-01,2023-08-31
+636,Car transport and running costs,Modest,Single,107.02,Transport,2023-07-01,2023-08-31
+637,Public Transport,Comfortable,Couple,5.49,Transport,2023-07-01,2023-08-31
+638,Public Transport,Modest,Couple,5.49,Transport,2023-07-01,2023-08-31
+639,Public Transport,Comfortable,Single,2.79,Transport,2023-07-01,2023-08-31
+640,Public Transport,Modest,Single,2.79,Transport,2023-07-01,2023-08-31
+641,Health Insurance,Comfortable,Couple,93.52,Health services,2023-07-01,2023-08-31
+642,Health Insurance,Modest,Couple,35.74,Health services,2023-07-01,2023-08-31
+643,Health Insurance,Comfortable,Single,46.75,Health services,2023-07-01,2023-08-31
+644,Health Insurance,Modest,Single,17.87,Health services,2023-07-01,2023-08-31
+645,Chemist,Comfortable,Couple,47.86,Health services,2023-07-01,2023-08-31
+646,Chemist,Modest,Couple,23.93,Health services,2023-07-01,2023-08-31
+647,Chemist,Comfortable,Single,27.55,Health services,2023-07-01,2023-08-31
+648,Chemist,Modest,Single,13.77,Health services,2023-07-01,2023-08-31
+649,Co-payment and out of packet health costs,Comfortable,Couple,64.57,Health services,2023-07-01,2023-08-31
+650,Co-payment and out of packet health costs,Modest,Couple,47.75,Health services,2023-07-01,2023-08-31
+651,Co-payment and out of packet health costs,Comfortable,Single,35.82,Health services,2023-07-01,2023-08-31
+652,Co-payment and out of packet health costs,Modest,Single,23.88,Health services,2023-07-01,2023-08-31
+653,Over the counter medicines,Comfortable,Couple,5.95,Health services,2023-07-01,2023-08-31
+654,Over the counter medicines,Modest,Couple,0.0,Health services,2023-07-01,2023-08-31
+655,Over the counter medicines,Comfortable,Single,2.97,Health services,2023-07-01,2023-08-31
+656,Over the counter medicines,Modest,Single,0.0,Health services,2023-07-01,2023-08-31
+657,Club Memberships,Comfortable,Couple,6.65,Leisure,2023-07-01,2023-08-31
+658,Club Memberships,Modest,Couple,4.43,Leisure,2023-07-01,2023-08-31
+659,Club Memberships,Comfortable,Single,4.46,Leisure,2023-07-01,2023-08-31
+660,Club Memberships,Modest,Single,3.32,Leisure,2023-07-01,2023-08-31
+661,Streaming services ( netflix etc),Comfortable,Couple,12.03,Leisure,2023-07-01,2023-08-31
+662,Streaming services ( netflix etc),Modest,Couple,3.23,Leisure,2023-07-01,2023-08-31
+663,Streaming services ( netflix etc),Comfortable,Single,12.03,Leisure,2023-07-01,2023-08-31
+664,Streaming services ( netflix etc),Modest,Single,3.23,Leisure,2023-07-01,2023-08-31
+665,Alcohol,Comfortable,Couple,45.67,Leisure,2023-07-01,2023-08-31
+666,Alcohol,Modest,Couple,25.81,Leisure,2023-07-01,2023-08-31
+667,Alcohol,Comfortable,Single,21.88,Leisure,2023-07-01,2023-08-31
+668,Alcohol,Modest,Single,17.13,Leisure,2023-07-01,2023-08-31
+669,"Lunches, Dinner out",Comfortable,Couple,96.06,Leisure,2023-07-01,2023-08-31
+670,"Lunches, Dinner out",Modest,Couple,50.32,Leisure,2023-07-01,2023-08-31
+671,"Lunches, Dinner out",Comfortable,Single,68.61,Leisure,2023-07-01,2023-08-31
+672,"Lunches, Dinner out",Modest,Single,29.73,Leisure,2023-07-01,2023-08-31
+673,"Movies, Plays, Sports, Day Trips",Comfortable,Couple,11.09,Leisure,2023-07-01,2023-08-31
+674,"Movies, Plays, Sports, Day Trips",Modest,Couple,13.3,Leisure,2023-07-01,2023-08-31
+675,"Movies, Plays, Sports, Day Trips",Comfortable,Single,6.65,Leisure,2023-07-01,2023-08-31
+676,"Movies, Plays, Sports, Day Trips",Modest,Single,6.65,Leisure,2023-07-01,2023-08-31
+677,Domestic Vacations,Comfortable,Couple,85.86,Leisure,2023-07-01,2023-08-31
+678,Domestic Vacations,Modest,Couple,60.0,Leisure,2023-07-01,2023-08-31
+679,Domestic Vacations,Comfortable,Single,56.41,Leisure,2023-07-01,2023-08-31
+680,Domestic Vacations,Modest,Single,38.03,Leisure,2023-07-01,2023-08-31
+681,Overseas Vacations,Comfortable,Couple,37.68,Leisure,2023-07-01,2023-08-31
+682,Overseas Vacations,Modest,Couple,0.0,Leisure,2023-07-01,2023-08-31
+683,Overseas Vacations,Comfortable,Single,23.78,Leisure,2023-07-01,2023-08-31
+684,Overseas Vacations,Modest,Single,0.0,Leisure,2023-07-01,2023-08-31
+685,Takeaway Food,Comfortable,Couple,32.28,Leisure,2023-07-01,2023-08-31
+686,Takeaway Food,Modest,Couple,16.84,Leisure,2023-07-01,2023-08-31
+687,Takeaway Food,Comfortable,Single,23.51,Leisure,2023-07-01,2023-08-31
+688,Takeaway Food,Modest,Single,12.52,Leisure,2023-07-01,2023-08-31
+689,Clothing and Footware,Comfortable,Couple,52.37,Clothing and footwear,2023-07-01,2023-08-31
+690,Clothing and Footware,Modest,Couple,40.01,Clothing and footwear,2023-07-01,2023-08-31
+691,Clothing and Footware,Comfortable,Single,28.12,Clothing and footwear,2023-07-01,2023-08-31
+692,Clothing and Footware,Modest,Single,21.05,Clothing and footwear,2023-07-01,2023-08-31
+693,"TV,DVD",Comfortable,Couple,1.21,Leisure,2023-07-01,2023-08-31
+694,"TV,DVD",Modest,Couple,0.46,Leisure,2023-07-01,2023-08-31
+695,"TV,DVD",Comfortable,Single,1.21,Leisure,2023-07-01,2023-08-31
+696,"TV,DVD",Modest,Single,0.46,Leisure,2023-07-01,2023-08-31
