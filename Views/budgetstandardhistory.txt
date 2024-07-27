@@ -1,0 +1,7 @@
+select public.budgetstandardhistory."ID" , public.items.description as "Item Description" , public.lifestyle.description as "Life Style" , public.retirementtype.description as "Retirement Type" , 
+public.budgetstandardhistory.budgetperweek as "Budget Per Week", public.category.description as "Category" 
+from public.budgetstandardhistory 
+inner join public.items on public.budgetstandardhistory.item = public.items."ID" 
+inner join public.lifestyle on public.budgetstandardhistory.lifestyle = public.lifestyle."ID"
+inner join public.retirementtype on public.budgetstandardhistory.retirementtype = public.retirementtype."ID" 
+inner join public.category on public.budgetstandardhistory.category = public.category."ID" 
