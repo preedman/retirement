@@ -1,0 +1,125 @@
+Item,Category,LifeStyle,RetirementType,BudgetPerWeek
+Building and contents insurance,Housing,Comfortable,Couple,46.96
+Building and contents insurance,Housing,Modest,Couple,46.87
+Building and contents insurance,Housing,Comfortable,Single,44.29
+Building and contents insurance,Housing,Modest,Single,36.88
+Council rates,Housing,Comfortable,Couple,46.72
+Council rates,Housing,Modest,Couple,42.67
+Council rates,Housing,Comfortable,Single,46.72
+Council rates,Housing,Modest,Single,40.2
+Water charges,Housing,Comfortable,Couple,27.22
+Water charges,Housing,Modest,Couple,27.22
+Water charges,Housing,Comfortable,Single,23.44
+Water charges,Housing,Modest,Single,23.44
+Home improvements,Housing,Comfortable,Couple,8.09
+Home improvements,Housing,Modest,Couple,0
+Home improvements,Housing,Comfortable,Single,8.09
+Home improvements,Housing,Modest,Single,0
+Repairs & maintenance,Housing,Comfortable,Couple,24.26
+Repairs & maintenance,Housing,Modest,Couple,24.26
+Repairs & maintenance,Housing,Comfortable,Single,24.26
+Repairs & maintenance,Housing,Modest,Single,24.26
+Electricity & gas bills,Electricty and Gas,Comfortable,Couple,53.06
+Electricity & gas bills,Electricty and Gas,Modest,Couple,45.26
+Electricity & gas bills,Electricty and Gas,Comfortable,Single,42.78
+Electricity & gas bills,Electricty and Gas,Modest,Single,33.77
+Food - Groceries,Food,Comfortable,Couple,253.15
+Food - Groceries,Food,Modest,Couple,208.85
+Food - Groceries,Food,Comfortable,Single,145.65
+Food - Groceries,Food,Modest,Single,112.65
+"Home Phone,Broadband,Mobile","Home Phone,Broadband,Mobile",Comfortable,Couple,29.62
+"Home Phone,Broadband,Mobile","Home Phone,Broadband,Mobile",Modest,Couple,20.5
+"Home Phone,Broadband,Mobile","Home Phone,Broadband,Mobile",Comfortable,Single,22.76
+"Home Phone,Broadband,Mobile","Home Phone,Broadband,Mobile",Modest,Single,18.2
+Household cleaning and other supplies,Household goods and services,Comfortable,Couple,30.49
+Household cleaning and other supplies,Household goods and services,Modest,Couple,18.22
+Household cleaning and other supplies,Household goods and services,Comfortable,Single,23.37
+Household cleaning and other supplies,Household goods and services,Modest,Single,18.22
+Cosmetic and personal care items,Household goods and services,Comfortable,Couple,7.55
+Cosmetic and personal care items,Household goods and services,Modest,Couple,7.23
+Cosmetic and personal care items,Household goods and services,Comfortable,Single,5.39
+Cosmetic and personal care items,Household goods and services,Modest,Single,5.17
+Hair cuts,Household goods and services,Comfortable,Couple,28.33
+Hair cuts,Household goods and services,Modest,Couple,12.54
+Hair cuts,Household goods and services,Comfortable,Single,18.45
+Hair cuts,Household goods and services,Modest,Single,7.52
+"Media, including digital",Household goods and services,Comfortable,Couple,10.14
+"Media, including digital",Household goods and services,Modest,Couple,2.96
+"Media, including digital",Household goods and services,Comfortable,Single,9.9
+"Media, including digital",Household goods and services,Modest,Single,2.96
+"Computer, Printer, Software",Household goods and services,Comfortable,Couple,5.01
+"Computer, Printer, Software",Household goods and services,Modest,Couple,2.82
+"Computer, Printer, Software",Household goods and services,Comfortable,Single,5.01
+"Computer, Printer, Software",Household goods and services,Modest,Single,2.82
+"Household appliances, Air Conditioning",Household goods and services,Comfortable,Couple,18.04
+"Household appliances, Air Conditioning",Household goods and services,Modest,Couple,2.95
+"Household appliances, Air Conditioning",Household goods and services,Comfortable,Single,16.66
+"Household appliances, Air Conditioning",Household goods and services,Modest,Single,2.95
+Misc,Household goods and services,Comfortable,Couple,7.78
+Misc,Household goods and services,Modest,Couple,0
+Misc,Household goods and services,Comfortable,Single,7.78
+Misc,Household goods and services,Modest,Single,0
+Car transport and running costs,Transport,Comfortable,Couple,186.89
+Car transport and running costs,Transport,Modest,Couple,110.29
+Car transport and running costs,Transport,Comfortable,Single,174.88
+Car transport and running costs,Transport,Modest,Single,105.96
+Public Transport,Transport,Comfortable,Couple,5.63
+Public Transport,Transport,Modest,Couple,5.63
+Public Transport,Transport,Comfortable,Single,2.81
+Public Transport,Transport,Modest,Single,2.81
+Health Insurance,Health services,Comfortable,Couple,96.33
+Health Insurance,Health services,Modest,Couple,36.81
+Health Insurance,Health services,Comfortable,Single,48.16
+Health Insurance,Health services,Modest,Single,18.41
+Chemist,Health services,Comfortable,Couple,49.28
+Chemist,Health services,Modest,Couple,24.64
+Chemist,Health services,Comfortable,Single,28.37
+Chemist,Health services,Modest,Single,14.18
+Co-payment and out of packet health costs,Health services,Comfortable,Couple,67.96
+Co-payment and out of packet health costs,Health services,Modest,Couple,50.26
+Co-payment and out of packet health costs,Health services,Comfortable,Single,37.71
+Co-payment and out of packet health costs,Health services,Modest,Single,25.14
+Over the counter medicines,Health services,Comfortable,Couple,6.13
+Over the counter medicines,Health services,Modest,Couple,0
+Over the counter medicines,Health services,Comfortable,Single,3.06
+Over the counter medicines,Health services,Modest,Single,0
+Club Memberships,Leisure,Comfortable,Couple,6.84
+Club Memberships,Leisure,Modest,Couple,4.56
+Club Memberships,Leisure,Comfortable,Single,4.58
+Club Memberships,Leisure,Modest,Single,3.42
+Streaming services ( netflix etc),Leisure,Comfortable,Couple,13.03
+Streaming services ( netflix etc),Leisure,Modest,Couple,3.5
+Streaming services ( netflix etc),Leisure,Comfortable,Single,13.03
+Streaming services ( netflix etc),Leisure,Modest,Single,3.5
+Alcohol,Leisure,Comfortable,Couple,47.17
+Alcohol,Leisure,Modest,Couple,26.66
+Alcohol,Leisure,Comfortable,Single,22.59
+Alcohol,Leisure,Modest,Single,17.69
+"Lunches, Dinner out",Leisure,Comfortable,Couple,98.72
+"Lunches, Dinner out",Leisure,Modest,Couple,51.72
+"Lunches, Dinner out",Leisure,Comfortable,Single,70.52
+"Lunches, Dinner out",Leisure,Modest,Single,30.55
+"Movies, Plays, Sports, Day Trips",Leisure,Comfortable,Couple,11.4
+"Movies, Plays, Sports, Day Trips",Leisure,Modest,Couple,13.68
+"Movies, Plays, Sports, Day Trips",Leisure,Comfortable,Single,6.84
+"Movies, Plays, Sports, Day Trips",Leisure,Modest,Single,6.84
+Domestic Vacations,Leisure,Comfortable,Couple,87.01
+Domestic Vacations,Leisure,Modest,Couple,60.8
+Domestic Vacations,Leisure,Comfortable,Single,57.17
+Domestic Vacations,Leisure,Modest,Single,38.53
+Overseas Vacations,Leisure,Comfortable,Couple,38.48
+Overseas Vacations,Leisure,Modest,Couple,0
+Overseas Vacations,Leisure,Comfortable,Single,24.29
+Overseas Vacations,Leisure,Modest,Single,0
+Takeaway Food,Leisure,Comfortable,Couple,33.25
+Takeaway Food,Leisure,Modest,Couple,17.34
+Takeaway Food,Leisure,Comfortable,Single,24.21
+Takeaway Food,Leisure,Modest,Single,12.9
+Clothing and Footware,Clothing and footwear,Comfortable,Couple,53.28
+Clothing and Footware,Clothing and footwear,Modest,Couple,40.71
+Clothing and Footware,Clothing and footwear,Comfortable,Single,28.61
+Clothing and Footware,Clothing and footwear,Modest,Single,21.42
+"TV,DVD",Leisure,Comfortable,Couple,1.2
+"TV,DVD",Leisure,Modest,Couple,0.46
+"TV,DVD",Leisure,Comfortable,Single,1.2
+"TV,DVD",Leisure,Modest,Single,0.46
